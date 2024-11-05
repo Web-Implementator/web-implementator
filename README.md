@@ -41,3 +41,8 @@ My experience is growing every day, so I'll just say that it's been over 7 years
 <div style="display: flex; flex-direction: row;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </div>
+
+## 📫 Connect with me!
+<p align="left">
+<a href="https://www.linkedin.com/in/viacheslav-akulov-9b63b028a/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="viacheslav-akulov" height="30" width="30" /></a>
+</p>
